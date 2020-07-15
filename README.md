@@ -1,6 +1,6 @@
 ### Hi there, welcome! 👋
 
-## :man_technologist: João Eliandro
+## :man_technologist: I'm João Eliandro
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaoeliandro)](https://github.com/joaoeliandro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-eliandro/)](https://www.linkedin.com/in/jo%C3%A3o-eliandro/)
@@ -14,12 +14,14 @@
 
 
 ### :scroll: Fun facts: 
-  - On the way to change the world :earth_africa: 
-  - Every day studying and learning something new :loop:
-  - Musician :saxophone:
-  - Beer lover 🍺
-  - DeMolay :crown:
-  - Technology enthusiast :high_brightness: 
+>  * On the way to change the world :earth_africa: 
+>  * Every day studying and learning something new :loop:
+>  * DeMolay :crown:
+>  * Technology enthusiast :high_brightness: 
+>  * Musician :saxophone:
+>  * Beer lover 🍺
+
+"Knowledge is Power!"
   
   ---
   

@@ -13,7 +13,7 @@
 - :books: Graduating in **Computer Engineering** ⚙ and currently studying at **Rocketseat** :purple_heart:
 
 
-### :scroll: Fun facts: 
+#### :scroll: Fun facts: 
 >  * On the way to change the world :earth_africa: 
 >  * Every day studying and learning something new :loop:
 >  * DeMolay :crown:

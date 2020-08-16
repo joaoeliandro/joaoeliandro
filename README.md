@@ -4,6 +4,20 @@
 
 ## :man_technologist: I'm João Eliandro
 
+<center>
+  <table>
+    <tr>
+        <td>
+          <img width="400px" align="left" 
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoeliandro&hide=html&layout=compact&theme=default" />
+      </td>
+      <td>
+          <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaoeliandro&theme=default" />
+      </td>
+    </tr>   
+  </table>
+</center>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joaoeliandro)](https://github.com/joaoeliandro)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-eliandro/)](https://www.linkedin.com/in/jo%C3%A3o-eliandro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliandrogermano@gmail.com)](mailto:eliandrogermano@gmail.com)
@@ -14,15 +28,6 @@
 - :octocat: **Artificial Intelligence** passionate.
 - :computer: React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - :books: Graduating in **Computer Engineering** ⚙ and currently studying at **Rocketseat** :purple_heart:
-
-
-#### :scroll: Fun facts: 
->  * On the way to change the world :earth_africa: 
->  * Every day studying and learning something new :loop:
->  * DeMolay :crown:
->  * Technology enthusiast :high_brightness: 
->  * Musician :saxophone:
->  * Beer lover 🍺
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="react" width="20" height="20"/>
@@ -35,9 +40,18 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=joaoeliandro&show_icons=true" alt="joaoeliandro" />
-</p>
+#### :scroll: Fun facts: 
+>  * On the way to change the world :earth_africa: 
+>  * Every day studying and learning something new :loop:
+>  * DeMolay :crown:
+>  * Technology enthusiast :high_brightness: 
+>  * Musician :saxophone:
+>  * Beer lover 🍺
+
+</br>
+</br>
+<p align="center"><strong>"Knowledge is Power!"</strong></p>  
+</br>
 
 <p align="center">
 <a href="https://codepen.io/joaoeliandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joaoeliandro" height="20" width="20" /></a>
@@ -48,9 +62,10 @@
 <a href="https://fb.com/eliandrogermano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joaoeliandro" height="20" width="20" /></a>
 <a href="https://instagram.com/eliandrogermano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaoeliandro" height="20" width="20" /></a>
 </p>
-</br>
-<p align="center"><strong>"Knowledge is Power!"</strong></p>  
 
   ---
   
+  
+<p align="center">  
   My name is João Eliandro and I'm here to change the world one day :heart:
+</p>

@@ -1,4 +1,6 @@
-### Hi there, welcome! 👋
+<p align="center"> 
+  <img src="https://res.cloudinary.com/dy7l1wk3y/image/upload/v1597554565/Component_3_tzyjtj.png" alt="joaoeliandro" />
+</p>
 
 ## :man_technologist: I'm João Eliandro
 
@@ -8,7 +10,8 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5584981599453&text=Olá!)](https://api.whatsapp.com/send?phone=5584981599453&text=Olá!)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/eliandrogermano)](https://www.instagram.com/eliandrogermano) 
 
-- :man_technologist: **Fullstack** web developer. :octocat: **Artificial Intelligence** passionate.
+- :man_technologist: **Fullstack** web developer. 
+- :octocat: **Artificial Intelligence** passionate.
 - :computer: React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - :books: Graduating in **Computer Engineering** ⚙ and currently studying at **Rocketseat** :purple_heart:
 
@@ -20,6 +23,17 @@
 >  * Technology enthusiast :high_brightness: 
 >  * Musician :saxophone:
 >  * Beer lover 🍺
+
+<p align="center">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="react" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="postgresql" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=joaoeliandro&show_icons=true" alt="joaoeliandro" />

@@ -44,7 +44,7 @@
 >  * On the way to change the world :earth_africa: 
 >  * Every day studying and learning something new :loop:
 >  * DeMolay :crown:
->  * Technology enthusiast :high_brightness: 
+>  * Disruptive technology enthusiast :high_brightness: 
 >  * Musician :saxophone:
 >  * Beer lover 🍺
 

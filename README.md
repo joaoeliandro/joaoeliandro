@@ -24,7 +24,7 @@
 
 - :man_technologist: **Full Stack** Developer. 
 - :octocat: **Artificial Intelligence** passionate.
-- :computer: React.js, React Native, Node.js, and currently studying Elixir and Pheonix.
+- :computer: React.js, React Native, Node.js and currently studying Elixir and Pheonix.
 - :books: Graduating in **Computer Engineering** ⚙
 
 <!-- <p align="center">

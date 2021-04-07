@@ -29,16 +29,16 @@
 
 **Languages and tools:**
 
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/typescript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/javascript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/elixir.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/nodejs.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/react.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/pheonix.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/docker.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/aws.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/digitalocean.png">
-<img height="30" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/linux.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/typescript.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/javascript.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/elixir.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/nodejs.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/react.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/pheonix.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/docker.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/aws.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/digitalocean.png">
+<img height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/linux.png">
 
 
 <!-- <p align="center">

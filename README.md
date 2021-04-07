@@ -25,8 +25,21 @@
 - :man_technologist: **Full Stack** Developer.
 - :hourglass_flowing_sand: **Full Cycle** Developer in progress. 
 - :octocat: **Artificial Intelligence** passionate.
-- :computer: React.js, React Native, Node.js and currently studying Elixir and Pheonix.
 - :books: Graduating in **Computer Engineering** ⚙
+
+**Languages and tools:**
+
+<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/typescript.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/javascript.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/elixir.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/nodejs.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/react.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/pheonix.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/docker.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/aws.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/digitalocean.png">
+<img height="30" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/linux.png">
+
 
 <!-- <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="react" width="20" height="20"/>
@@ -52,18 +65,7 @@
 <p align="center"><strong>"Knowledge is Power!"</strong></p>  
 </br>
 
-<p align="center">
-<a href="https://codepen.io/joaoeliandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="joaoeliandro" height="20" width="20" /></a>
-<a href="https://twitter.com/elindo_js" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="joaoeliandro" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/jo%C3%A3o-eliandro/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="joaoeliandro" height="20" width="20" /></a>
-<a href="https://pt.stackoverflow.com/users/198410/jo%c3%a3o-eliandro-germano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="joaoeliandro" height="20" width="20" /></a>
-<a href="https://codesandbox.io/u/joaoeliandro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="joaoeliandro" height="20" width="20" /></a>
-<a href="https://fb.com/eliandrogermano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joaoeliandro" height="20" width="20" /></a>
-<a href="https://instagram.com/eliandrogermano" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="joaoeliandro" height="20" width="20" /></a>
-</p>
-
   ---
-  
   
 <p align="center">  
   My name is João Eliandro and I'm here to change the world one day :heart:

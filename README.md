@@ -21,7 +21,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-eliandro/)](https://www.linkedin.com/in/jo%C3%A3o-eliandro/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliandrogermano@gmail.com)](mailto:eliandrogermano@gmail.com)
 
-- :man_technologist: **Full Stack** Developer pending for backend.
+- :man_technologist: **Full Stack** Developer.
 - :hourglass_flowing_sand: **Full Cycle** Developer in progress. 
 - :octocat: **Artificial Intelligence** passionate.
 - :books: Graduating in **Computer Engineering** ⚙

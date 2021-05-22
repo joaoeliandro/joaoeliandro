@@ -27,6 +27,8 @@
 - :octocat: **Artificial Intelligence** passionate.
 - :books: Graduating in **Computer Engineering** ⚙
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/joaoeliandro)](https://github.com/joaoeliandro)
+
 **Languages and tools:**
 
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/typescript.png">

@@ -19,6 +19,7 @@
 </center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-eliandro/)](https://www.linkedin.com/in/jo%C3%A3o-eliandro/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@joaoeliandro)](https://medium.com/@joaoeliandro)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliandrogermano@gmail.com)](mailto:eliandrogermano@gmail.com)
 
 - :man_technologist: **Full Stack** Developer.

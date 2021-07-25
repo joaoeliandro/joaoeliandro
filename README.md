@@ -24,7 +24,7 @@
 
 - :man_technologist: **Full Stack** Developer.
 - :hourglass_flowing_sand: **Full Cycle** Developer in progress. 
-- :octocat: **Artificial Intelligence** passionate.
+- :octocat: **Artificial Intelligence and Backend** passionate.
 - :books: Graduating in **Computer Engineering** ⚙
 
 **Languages and tools:**

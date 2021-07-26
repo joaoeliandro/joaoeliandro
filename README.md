@@ -33,7 +33,7 @@
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/javascript.png">
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/elixir.png">
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/nodejs.png">
-<img height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/go.png">
+<img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/go.png">
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/react.png">
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/pheonix.png">
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/docker.png">

@@ -25,7 +25,7 @@
 - :man_technologist: **Full Stack** Developer.
 - :hourglass_flowing_sand: **Full Cycle** Developer in progress. 
 - :octocat: **Artificial Intelligence and Back end** passionate.
-- :books: Graduating in **Computer Engineering** ⚙
+- :books: Bachelor's degree, **Computer Engineering** ⚙
 
 **Languages and tools:**
 
@@ -40,18 +40,6 @@
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/aws.png">
 <img align="left" height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/digitalocean.png">
 <img height="25" src="https://raw.githubusercontent.com/joaoeliandro/joaoeliandro/master/images/linux.png">
-
-
-<!-- <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="react" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" alt="postgresql" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-</p> -->
 
 #### :scroll: Fun facts: 
 >  * On the way to change the world :earth_africa: 

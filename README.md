@@ -23,7 +23,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eliandrogermano@gmail.com)](mailto:eliandrogermano@gmail.com)
 
 - :man_technologist: **Full Stack** Developer.
-- :hourglass_flowing_sand: **Data Engineer** in progress. 
+- :hourglass_flowing_sand: **Data Scientist** in progress. 
 - :octocat: **Artificial Intelligence and Back end** passionate.
 - :books: Bachelor's degree in **Computer Engineering** ⚙
 

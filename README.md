@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/dy7l1wk3y/image/upload/v1597554565/Component_3_tzyjtj.png" alt="joaoeliandro" />
 </p>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm João</h1>
+<h1 align="left">Hi, I'm João</h1>
 
 <center>
   <table>

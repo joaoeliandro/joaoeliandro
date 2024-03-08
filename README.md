@@ -48,8 +48,6 @@
 >  * Musician :saxophone:
 >  * Beer lover 🍺
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/joaoeliandro)](https://github.com/joaoeliandro)
-
 </br>
 </br>
 <p align="center"><strong>"Knowledge is Power!"</strong></p>  
